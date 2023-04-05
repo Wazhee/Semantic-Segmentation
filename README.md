@@ -10,3 +10,4 @@ Encoder(VGG16 Network):<br>
 
 
 Decoder:<br>
+![Screenshot 2023-04-05 at 1 31 02 PM](https://user-images.githubusercontent.com/34732790/230172643-5720732f-4dfb-4ac1-8511-22896259634f.png)
