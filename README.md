@@ -7,7 +7,7 @@ Description: <br>
 large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames.<br>
 
 License:<br>
-This Cityscapes Dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree to our license terms.<br>
+This Cityscapes Dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree to their license terms.<br>
 ![Screenshot 2023-04-05 at 1 20 50 PM](https://user-images.githubusercontent.com/34732790/230169953-2a421f2e-6c13-4962-ab9b-773a10596d08.png)
 
 ## Model Architecture:- <br>
